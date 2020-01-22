@@ -9,9 +9,6 @@ Prosper Loan Data Analysis is the project for the Communicate Data Findings port
 - [Contact](#contact)
 
 ## Overview
-This is a more detailed description of Project Title. Go further here in explaining the purpose and process behind the creation of this project. Discuss the programs, APIs, libraries, and data sets used. Describe the structure of the data sets as well. With that context, go into the broader 'why' of the project. Then finally explain the project's current status and maintenance. 
-
-82 variables
 In this project a dataset containing information for 113,937 loans from Prosper are analyzed using various visualization techniques in `matplotlib` and `seaborn`. The focus is on the variables of loan amount, borrower rate, and loan status, and progresses through an initial exploration of the data set, univariate, bivariate, and multivariate analysis of the data, and finally conclusions and explanatory visualizations of the relationships found. The `Prosper Loan Data - Variable Definitions - Sheet1.csv` file contains detailed descriptions of the variables in the initial data set provided. The `prosper_clean.csv` file is the cleaned file used in the data analysis portion of the project in the Jupyter Notebook. The `prosper_pastdue_clean.csv` file is a cleaned file of just listings with a LoanStatus of 'Past Due', that is used in certain portions of the data analysis in the project.The `prosper_loan_data_analysis.html` file is a copy of the Jupyter Notebook used when submitting this project. The `output_toggle.tpl` file is included to use the Jupyter Notebook as a slideshow. The `slide_deck.ipynb`  and `slide_deck.slides.html` files are a copy of the slideshow created from the project. The `readme_old.md` was a summary of the project used during submission, but will be replaced by this `README.md` file
 
 ## Requirements
