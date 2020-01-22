@@ -1,6 +1,6 @@
 
 # :bar_chart: Prosper Loan Data Analysis -  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deepaksithu/Communicate_Data_Findings_Project/master?filepath=prosper_loan_data_analysis.ipynb)
-Prosper Loan Data Analysis is the final project for the Udacity Data Analyst Nanodegree program. In it loan data from Prosper is cleaned and then analyzed using visualizations.
+Prosper Loan Data Analysis is the project for the Communicate Data Findings portion of the Udacity Data Analyst Nanodegree program. In it loan data from Prosper is cleaned and then analyzed using visualizations.
 
 ## Table of Contents
 - [Overview](#overview)
